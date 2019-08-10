@@ -1,0 +1,43 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.nstemplatejs",
+    "templateVersion": "v2",
+    "tns-android": {
+      "version": "6.0.0"
+    },
+    "tns-ios": {
+      "version": "6.0.1"
+    }
+  },
+  "name": "ns-template-js",
+  "displayName": "NS Template JS",
+  "templateType": "App template",
+  "version": "6.0.0",
+  "description": "Template for Vanilla NativeScript 6+ apps using JavaScript",
+  "author": "MultiShiv19 <sp@shiv19.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "nativescript",
+    "{N}",
+    "tns",
+    "template",
+    "category-general"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiv19/ns-template-js.git"
+  },
+  "homepage": "https://github.com/shiv19/ns-template-js.git",
+  "bugs": {
+    "url": "https://github.com/shiv19/ns-template-js/issues"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "~1.0.6",
+    "tns-core-modules": "~6.0.0"
+  },
+  "devDependencies": {
+    "nativescript-dev-webpack": "~1.0.0"
+  }
+}
